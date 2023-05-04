@@ -1,7 +1,15 @@
 # LelouVincx
 
-**Hi! Welcome to my Github!**
+## Hi! Welcome to my Github!
 
 Here you can visit my contributions to the open source community, and my projects.
 
-Want to know more about me and my works? Visit lelouvincx.github.io
+Want to know more about me and my works? Visit https://lelouvincx.github.io/
+
+## ⚡ Favorite languages and tools
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelouvincx&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="lelouvincx" />
+
+## :octocat: Github contributions
+
+<img src="https://github-readme-stats.vercel.app/api?username=thangchung&show_icons=true&count_private=true&theme=algolia" alt="thangchung" />
