@@ -1,4 +1,4 @@
-# LelouVincx
+# lelouvincx
 
 ## Hi! Welcome to my Github!
 
