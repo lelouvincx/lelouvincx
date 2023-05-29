@@ -8,12 +8,8 @@ Want to know more about me and my works? Visit https://lelouvincx.github.io/
 
 ## ⚡ Favorite languages and tools
 
-<div width="100%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelouvincx&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="lelouvincx" />
- </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelouvincx&hide=css,html,powershell,elm,php,javascript,jupyter-notebook&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="lelouvincx" />
 
 ## :octocat: Github contributions
 
-<div width="100% align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lelouvincx&show_icons=true&count_private=true&theme=algolia" alt="lelouvincx" />
-                                                                                                                                             </div>
+<img src="https://github-readme-stats.vercel.app/api?username=lelouvincx&show_icons=true&count_private=true&theme=algolia" alt="lelouvincx" />
