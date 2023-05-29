@@ -14,5 +14,6 @@ Want to know more about me and my works? Visit https://lelouvincx.github.io/
 
 ## :octocat: Github contributions
 
-<div width="100% align="center"
+<div width="100% align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lelouvincx&show_icons=true&count_private=true&theme=algolia" alt="lelouvincx" />
+                                                                                                                                             </div>
