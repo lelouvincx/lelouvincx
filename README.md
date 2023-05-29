@@ -8,7 +8,7 @@ Want to know more about me and my works? Visit https://lelouvincx.github.io/
 
 ## ⚡ Favorite languages and tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelouvincx&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelouvincx&hide_progress=true&show_icons=true&theme=transparent)
 
 ## :octocat: Github contributions
 
