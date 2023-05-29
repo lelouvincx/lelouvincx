@@ -4,7 +4,9 @@
 
 Here you can visit my contributions to the open source community, and my projects.
 
-Want to know more about me and my works? Visit https://lelouvincx.github.io/
+Want a tomato and my works? Visit https://lelouvincx.github.io/
+
+![Tomato with me](04.jpg)
 
 Contacts: :mailbox: [Email](mailto:dinhminhchinh3357@duck.com) | [LinkedIn](https://www.linkedin.com/in/lelouvincx/) | [Gitlab](https://gitlab.com/lelouvincx) | [Stackoverflow](https://stackoverflow.com/users/10793419/lelouvincx) | [Goodreads](https://www.goodreads.com/user/show/73433536-lelouvincx)
 
