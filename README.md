@@ -12,4 +12,4 @@ Want to know more about me and my works? Visit https://lelouvincx.github.io/
 
 ## :octocat: Github contributions
 
-<img src="https://github-readme-stats.vercel.app/api?username=lelouvincx&show_icons=true&count_private=true&theme=algolia" alt="lelouvincx" />
+![lelouvincx's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelouvincx&show_icons=true&theme=transparent)
