@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm lelouvincx</h1>
 <h3 align="center">Just a random guy who loves coding.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lelouvincx" alt="lelouvincx" /></a> </p>
-
 - 🔭 I’m currently working on **data engineering**
 
 - 👨‍💻 All of my projects are available at [https://lelouvincx.github.io/](https://lelouvincx.github.io/)
