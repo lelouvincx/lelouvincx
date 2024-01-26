@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lelouvincx.github.io/](https://lelouvincx.github.io/)
 
-- 📝 I regularly write articles on [data engineering, software and linux](data engineering, software and linux)
+- 📝 I regularly write articles on data engineering, software and linux.
 
 - 📫 How to reach me **dinhminhchinh3357@gmail.com**
 
