@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **data engineering**
 
-- 👨‍💻 All of my projects are available at [https://lelouvincx.github.io/](https://lelouvincx.github.io/)
+- 👨‍💻 All of my projects are available at my blog [https://lelouvincx.com/](https://lelouvincx.com)
 
 - 📝 I regularly write articles on data engineering, software and linux.
 
