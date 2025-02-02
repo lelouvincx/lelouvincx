@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dinhminhchinh3357@gmail.com**
 
-- ⚡ Fun fact: **I love Vim**
+- ⚡ Fun fact: **I love Neovim**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
