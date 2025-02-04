@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at my blog [lelouvincx.com](lelouvincx.com)
 
-- 📝 I regularly write articles on [data engineering, software, and linux](data engineering, software, and linux)
+- 📝 I regularly write articles on data engineering, software, and linux
 
 - 💬 Ask me about **Python, Data, Linux**
 
