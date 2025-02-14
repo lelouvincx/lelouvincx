@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Data, Linux**
 
-- 📫 Reach me **mailto:contact@lelouvincx.com**
+- 📫 Reach me [contact@lelouvincx.com](mailto:contact@lelouvincx.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
