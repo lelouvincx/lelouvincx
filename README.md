@@ -1,6 +1,8 @@
 <h1 align="center">Xin Chào 👋, I'm lelouvincx</h1>
 <h3 align="center">I am a random guy who loves coding, based in HCMC, Vietnam.</h3>
 
+[![](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made.svg)](https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam)
+
 - 🔭 I’m currently working on **data engineering**
 
 - 🌱 I’m currently learning **LLM, ReactJS**
