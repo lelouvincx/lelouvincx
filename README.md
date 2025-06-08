@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **data engineering**
 
-- 🌱 I’m currently learning **LLM, ReactJS**
+- 🌱 I’m learning to build a solo-product
 
 - 👨‍💻 All of my projects are available at my blog [lelouvincx.com](lelouvincx.com)
 
-- 📝 I regularly write articles on data engineering, software, and linux
+- 📝 I write articles on data engineering, software, and linux
 
-- 💬 Ask me about **Python, Data, Linux**
+- 💬 Ask me about **Data, Linux, Python, AI**
 
 - 📫 Reach me [contact@lelouvincx.com](mailto:contact@lelouvincx.com)
 
